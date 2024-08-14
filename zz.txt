@@ -1,0 +1,2 @@
+Interface
+tsc -w = it's a typescript watch mode works as a live server and update the output in js file with live changes.
